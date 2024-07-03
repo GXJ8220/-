@@ -4,3 +4,6 @@ host, vip4.jellyfin.asia, emby_V
 host, emby.uhhdc.com, emby_V
 # > 叔服
 host, jz.mcjoker.xyz, emby_V
+# > pilpil
+host, emby.pilipiliultra.top, emby
+host, emby.pilipiliultra.com, emby
