@@ -32,3 +32,6 @@ host,random.ouonet.org, emby
 host,su.viclub.top, emby
 # > startcat
 host,flare.catlinks.co.uk, emby
+# > pilpil
+host, emby.pilipiliultra.top, emby
+host, emby.pilipiliultra.com, emby
