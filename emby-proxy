@@ -5,14 +5,10 @@ host, embymv.tk, emby
 # > 1111
 host, cf.xmsl.org, emby
 host, free.xmsl.org, emby
-# > Temby
-host, temby.285286.xyz, emby
 # > heisi
 host, i109.com, emby
 # > 叔服
 host, emby3.mcjoker.xyz, emby
-# > 琴鸟
-host, cdn.lyrebirdemby.com, emby
 # > 天南小筑
 host, emby.tnx.one, emby
 # > 江湖
