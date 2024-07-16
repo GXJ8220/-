@@ -20,13 +20,15 @@ host, 7777777.buzz, emby
 # > 水母
 host, ws1.jellyfin.asia, emby
 # > 纸片人
-host,embyplus.org, emby
+host, embyplus.org, emby
 # > ouo
-host,random.ouonet.org, emby
+host, random.ouonet.org, emby
 # > 大V
-host,su.viclub.top, emby
+host, su.viclub.top, emby
 # > startcat
-host,flare.catlinks.co.uk, emby
+host, flare.catlinks.co.uk, emby
 # > pilpil
 host, emby.pilipiliultra.top, emby
 host, emby.pilipiliultra.com, emby
+# > misty
+host, misty.cx, emby
