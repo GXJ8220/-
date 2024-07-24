@@ -34,4 +34,6 @@ host, emby.pilipiliultra.com, emby
 host, misty.cx, emby
 # > ntr
 host, stream.ntrrr.top, emby
+# > CC
+host, cc.coemn.com, emby
 
