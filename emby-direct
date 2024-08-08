@@ -10,4 +10,7 @@ host, temby.285286.xyz, emby_V
 host, cdn.lyrebirdemby.com, emby_V
 # > gugu
 host, main.gugumedia.site, emby_V
+host, node1.guguemby.site, emby_V
+# > peach
+host, embymv.top, emby_V
 
