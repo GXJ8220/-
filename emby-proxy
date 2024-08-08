@@ -36,4 +36,5 @@ host, misty.cx, emby
 host, stream.ntrrr.top, emby
 # > CC
 host, cc.coemn.com, emby
-
+# > yomo
+host, emby.yomo.lol, emby
