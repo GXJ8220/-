@@ -2,15 +2,12 @@
 host, vip4.jellyfin.asia, emby_V
 # > 天南
 host, emby.uhhdc.com, emby_V
-# > 叔服
-host, jz.mcjoker.xyz, emby_V
 # > Temby
 host, temby.285286.xyz, emby_V
 # > 琴鸟
 host, cdn.lyrebirdemby.com, emby_V
 # > gugu
 host, main.gugumedia.site, emby_V
-host, node1.guguemby.site, emby_V
 # > peach
 host, embymv.top, emby_V
 
