@@ -6,14 +6,9 @@ host, embymv.tk, emby
 host, cf.xmsl.org, emby
 host, free.xmsl.org, emby
 # > heisi
-host, i109.com, emby
 # > 叔服
-host, emby3.mcjoker.xyz, emby
 # > 天南小筑
 host, emby.tnx.one, emby
-# > 江湖
-host, film.reddust.link, emby
-host, jh.reddust.link, emby
 # > 飞跃
 host, 581658.best, emby
 host, 7777777.buzz, emby
@@ -25,11 +20,7 @@ host, embyplus.org, emby
 host, random.ouonet.org, emby
 # > 大V
 host, su.viclub.top, emby
-# > startcat
-host, flare.catlinks.co.uk, emby
 # > pilpil
-host, emby.pilipiliultra.top, emby
-host, emby.pilipiliultra.com, emby
 # > misty
 host, misty.cx, emby
 # > ntr
