@@ -1,11 +1,36 @@
 payload:
+  # > MisakaF
   - DOMAIN,emby.aca.best
+  # > peach
   - DOMAIN,embymv.tk
+  # > nanfix
   - DOMAIN,emby.tnx.one
+  # > 飞跃
   - DOMAIN,581658.best
   - DOMAIN,7777777.buzz
+  # > 纸片人
   - DOMAIN,embyplus.org
+  # > 大V
   - DOMAIN,su.viclub.top
+  # > misty
   - DOMAIN,misty.cx
+  # > yomo
   - DOMAIN,emby.yomo.lol
+  # > panda
   - DOMAIN,pdatv.cc
+  # > shufu
+  - DOMAIN,emby3.mcjoker.xyz
+  # > 西瓜
+  - DOMAIN,emby.1024.name
+  # > Marmot
+  - DOMAIN,v.20120714.xyz
+  # > 放映厅
+  - DOMAIN,emby.9191001.xyz
+  # > pilipili
+  - DOMAIN,pilipili.club
+  # > 1111
+  - DOMAIN,cf.emby.moe
+  
+  
+  
+  
