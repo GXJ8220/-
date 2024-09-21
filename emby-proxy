@@ -3,10 +3,10 @@ host, emby.aca.best, emby
 # > peach
 host, embymv.tk, emby
 # > 1111
-host, cf.xmsl.org, emby
-host, free.xmsl.org, emby
+host, cf.emby.moe, emby
 # > heisi
 # > 叔服
+host, emby3.mcjoker.xyz, emby
 # > 天南小筑
 host, emby.tnx.one, emby
 # > 飞跃
@@ -21,6 +21,7 @@ host, random.ouonet.org, emby
 # > 大V
 host, su.viclub.top, emby
 # > pilpil
+host, pilipili.club, emby
 # > misty
 host, misty.cx, emby
 # > ntr
