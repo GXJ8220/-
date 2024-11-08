@@ -4,4 +4,10 @@ host, vip4.jellyfin.asia, emby_V
 host, emby.uhhdc.com, emby_V
 # > peach
 host, embymv.top, emby_V
-
+# > 好鸭
+host, dpx1.niceduck.lol, emby_V
+host, dpx2.niceduck.lol, emby_V
+host, jms2.niceduck.lol, emby_V
+host, jms1.niceduck.lol, emby_V
+# > 西瓜
+host, 1024.name:443, emby_V
