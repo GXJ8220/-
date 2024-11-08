@@ -10,4 +10,4 @@ host, dpx2.niceduck.lol, emby_V
 host, jms2.niceduck.lol, emby_V
 host, jms1.niceduck.lol, emby_V
 # > 西瓜
-host, 1024.name:443, emby_V
+host, 1024.name, emby_V
