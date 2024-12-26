@@ -19,3 +19,7 @@ host, emby.raisemby.com, emby_V
 host, vip.emby.my, emby_V
 host, 114.66.63.48, emby_V
 host, vip2.emby.my, emby_V
+# > gugu
+host, node1.guguemby.site, emby_V
+host, node2.guguemby.site, emby_V
+host, node3.guguemby.site, emby_V
