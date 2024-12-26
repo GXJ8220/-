@@ -19,3 +19,7 @@ DOMAIN,emby.raisemby.com
 DOMAIN,vip.emby.my
 DOMAIN,114.66.63.48
 DOMAIN,vip2.emby.my
+# > gugu
+DOMAIN,node1.guguemby.site
+DOMAIN,node2.guguemby.site
+DOMAIN,node3.guguemby.site
