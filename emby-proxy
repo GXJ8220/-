@@ -1,3 +1,4 @@
+
 # > MisakaF
 host, emby.aca.best, emby
 # > peach
@@ -44,3 +45,15 @@ host, main.gugumedia.site, emby
 host, emby.nebula-media.org, emby
 # > 放映厅
 host, emby.9191001.xyz, emby
+# > AlphaTV
+host, oversea.alphatvapp.top, emby
+# > zdz
+host, pub1.emby.wtf, emby
+host, pub1.term.wtf, emby
+host, pub2.emby.wtf, emby
+host, pub2.term.wtf, emby
+host, pub3.emby.wtf, emby
+host, pub3.term.wtf, emby
+# > sd.lite
+host, lite.saturday.video, emby
+
