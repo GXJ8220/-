@@ -9,6 +9,7 @@ host, cf.emby.moe, emby
 host, emby3.mcjoker.xyz, emby
 # > 天南小筑
 host, emby.tnx.one, emby
+host, us.nanflix.net, emby
 # > 飞跃
 host, 581658.best, emby
 host, 7777777.buzz, emby
@@ -39,3 +40,7 @@ host, temby.285286.xyz, emby
 host, cdn.lyrebirdemby.com, emby
 # > gugu
 host, main.gugumedia.site, emby
+# > 星云
+host, emby.nebula-media.org, emby
+# > 放映厅
+host, emby.9191001.xyz, emby
