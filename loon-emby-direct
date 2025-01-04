@@ -10,7 +10,10 @@ DOMAIN,dpx1.niceduck.lol
 DOMAIN,dpx2.niceduck.lol
 DOMAIN,jms2.niceduck.lol
 DOMAIN,jms1.niceduck.lol
-
+# > 西瓜
+DOMAIN,1024.name
+DOMAIN,1024.one
+DOMAIN,spare.1024.one
 # > rais
 DOMAIN,pemby.127255.best
 DOMAIN,pemby.127066.xyz
@@ -19,6 +22,9 @@ DOMAIN,emby.raisemby.com
 DOMAIN,vip.emby.my
 DOMAIN,114.66.63.48
 DOMAIN,vip2.emby.my
+DOMAIN,a.985211.link
+DOMAIN,b.985211.link
+DOMAIN,c.985211.link
 # > gugu
 DOMAIN,node1.guguemby.site
 DOMAIN,node2.guguemby.site
