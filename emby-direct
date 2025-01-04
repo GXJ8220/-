@@ -11,6 +11,8 @@ host, jms2.niceduck.lol, emby_V
 host, jms1.niceduck.lol, emby_V
 # > 西瓜
 host, 1024.name, emby_V
+host, 1024.one, emby_V
+host, spare.1024.one, emby_V
 # > rais
 host, pemby.127255.best, emby_V
 host, pemby.127066.xyz, emby_V
@@ -19,6 +21,9 @@ host, emby.raisemby.com, emby_V
 host, vip.emby.my, emby_V
 host, 114.66.63.48, emby_V
 host, vip2.emby.my, emby_V
+host, a.985211.link, emby_V
+host, b.985211.link, emby_V
+host, c.985211.link, emby_V
 # > gugu
 host, node1.guguemby.site, emby_V
 host, node2.guguemby.site, emby_V
