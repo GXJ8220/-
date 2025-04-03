@@ -56,4 +56,5 @@ host, pub3.emby.wtf, emby
 host, pub3.term.wtf, emby
 # > sd.lite
 host, lite.saturday.video, emby
-
+# > sd.lite
+host, emby.sexemby.com, emby
