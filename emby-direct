@@ -30,3 +30,7 @@ host, node2.guguemby.site, emby_V
 host, node3.guguemby.site, emby_V
 # > jzrm
 host, jzrm.524869.xyz, emby_V
+# > 倒闭
+host, zj302.sexemby.com, emby_V
+host-keyword, sexemby.com, emby_V
+
