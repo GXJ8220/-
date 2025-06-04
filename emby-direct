@@ -20,6 +20,7 @@ host, vip2.emby.my, emby_V
 host, a.985211.link, emby_V
 host, b.985211.link, emby_V
 host, c.985211.link, emby_V
+host-keyword, 115cdn.de, emby_V
 # > gugu
 host, node1.guguemby.site, emby_V
 host, node2.guguemby.site, emby_V
