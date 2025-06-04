@@ -9,10 +9,6 @@ host, dpx1.niceduck.lol, emby_V
 host, dpx2.niceduck.lol, emby_V
 host, jms2.niceduck.lol, emby_V
 host, jms1.niceduck.lol, emby_V
-# > 西瓜
-host, 1024.name, emby_V
-host, 1024.one, emby_V
-host, spare.1024.one, emby_V
 # > rais
 host, pemby.127255.best, emby_V
 host, pemby.127066.xyz, emby_V
